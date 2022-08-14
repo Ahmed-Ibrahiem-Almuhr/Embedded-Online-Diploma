@@ -1,1 +1,1 @@
-# Embedded-System
+# Embedded Systems Online Diploma
